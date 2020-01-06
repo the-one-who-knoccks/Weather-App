@@ -1,4 +1,4 @@
-# Simple weather-App 
+# Simple Weather-App 
 
 created using Vailla JS and darksky.net weather API. 
 
