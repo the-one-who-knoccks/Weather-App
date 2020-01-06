@@ -9,3 +9,5 @@ created using Vailla JS and darksky.net weather API. With simple button to chang
 # 02
 <img src="Preview/DeepinScreenshot_20200106130004.png">
 </br>
+
+# Big thanks to: Dev Ed
